@@ -1,0 +1,8 @@
+O O O O B P W P 
+O O O O B W P O 
+O O O O W O O O 
+O O O W W O O O 
+O O W W W B B O 
+O O B O W O O O 
+O O O O O O O O 
+O O O O O O O O 
